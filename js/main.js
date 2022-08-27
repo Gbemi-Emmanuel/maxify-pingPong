@@ -6,8 +6,8 @@ import paddle from './paddle.js'
 const Ball = new ball(document.getElementById('ball'));
 const playerPaddle = new paddle(document.getElementById('player-paddle'))
 const computerPaddle = new paddle(document.getElementById('computer-paddle'))
-const playerScoreElem = document.getElementById("player-score")
-const computerScoreElem = document.getElementById("computer-score")
+const playerScoreElem = document.getElementById("computer-score")
+const computerScoreElem = document.getElementById("player-score")
 
 
 let lastTime

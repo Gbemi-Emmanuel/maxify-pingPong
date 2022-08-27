@@ -31,12 +31,12 @@ body{
     height: 10vh;
 }
 
-.paddle.right{
-    right: 1vw;
-}
-
 .paddle.left{
     left: 1vw;
+}
+
+.paddle.right{
+    right: 1vw;
 }
 
 .ball{
